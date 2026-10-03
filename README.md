@@ -220,4 +220,4 @@ For any problems, check the support section on our website for troubleshooting t
 Don't wait! Download 3D Yams Unlimited now and start enjoying one of the most thrilling dice games available for Windows!
 
 ---
-**Last updated:** 2026-10-03 10:41:31 UTC
+**Last updated:** 2026-10-03 14:58:00 UTC
